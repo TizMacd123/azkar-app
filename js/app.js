@@ -115,9 +115,7 @@
         </div>
 
         <div class="card-actions">
-          <button class="icon-mini-btn" data-action="play" aria-label="تشغيل الصوت" title="استماع">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 3l14 9-14 9V3z"/></svg>
-          </button>
+         
           <button class="icon-mini-btn" data-action="copy" aria-label="نسخ" title="نسخ">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15V5a2 2 0 012-2h10"/></svg>
           </button>
