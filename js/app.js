@@ -101,7 +101,7 @@
         </button>
       </div>
 
-      <p class="card-arabic">${dhikr.text}</p>
+      <p class="card-arabic">${dhikr.text}</p> 
       ${dhikr.translation ? `<p class="card-translation">${dhikr.translation}</p>` : ""}
 
       <div class="card-bottom">
